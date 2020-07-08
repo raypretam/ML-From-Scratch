@@ -1,0 +1,16 @@
+setup.cfg
+setup.py
+mlfromscratch/__init__.py
+mlfromscratch.egg-info/PKG-INFO
+mlfromscratch.egg-info/SOURCES.txt
+mlfromscratch.egg-info/dependency_links.txt
+mlfromscratch.egg-info/requires.txt
+mlfromscratch.egg-info/top_level.txt
+mlfromscratch/supervised_learning/__init__.py
+mlfromscratch/supervised_learning/linear_discriminant_analysis.py
+mlfromscratch/supervised_learning/naive_bayes.py
+mlfromscratch/supervised_learning/regression.py
+mlfromscratch/utils/__init__.py
+mlfromscratch/utils/data_manipulation.py
+mlfromscratch/utils/data_operation.py
+mlfromscratch/utils/plotting.py
