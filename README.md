@@ -6,4 +6,4 @@ The main motive of the repository is not to provide optimized code but rather pr
 
 ## Implementations
   - Supervised Learning
-    - [ Linear Regression ](ML-From-Scratch/ML-From-Scratch/mlfromscratch/supervised_learning/regression.py)
+    - [ Linear Regression ](ML-From-Scratch/mlfromscratch/supervised_learning/regression.py)
